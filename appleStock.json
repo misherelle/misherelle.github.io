@@ -1,0 +1,1002 @@
+[
+    {
+        "index": 1,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 143.66,
+        "marketCap": 2400000000000,
+        "date": "2023-04-16",
+        "time": "09:38:50"
+    },
+    {
+        "index": 2,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 148.54,
+        "marketCap": 2400000000000,
+        "date": "2023-06-25",
+        "time": "17:01:15"
+    },
+    {
+        "index": 3,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 146.62,
+        "marketCap": 2400000000000,
+        "date": "2023-10-20",
+        "time": "22:33:02"
+    },
+    {
+        "index": 4,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 142.12,
+        "marketCap": 2400000000000,
+        "date": "2023-06-09",
+        "time": "04:40:52"
+    },
+    {
+        "index": 5,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 142.12,
+        "marketCap": 2400000000000,
+        "date": "2023-04-22",
+        "time": "16:02:52"
+    },
+    {
+        "index": 6,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 151.57,
+        "marketCap": 2400000000000,
+        "date": "2024-01-17",
+        "time": "22:50:41"
+    },
+    {
+        "index": 7,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 148.84,
+        "marketCap": 2400000000000,
+        "date": "2024-02-02",
+        "time": "00:35:08"
+    },
+    {
+        "index": 8,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 142.88,
+        "marketCap": 2400000000000,
+        "date": "2023-12-10",
+        "time": "15:12:55"
+    },
+    {
+        "index": 9,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 163.98,
+        "marketCap": 2400000000000,
+        "date": "2023-08-29",
+        "time": "16:20:55"
+    },
+    {
+        "index": 10,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 154.07,
+        "marketCap": 2400000000000,
+        "date": "2023-07-10",
+        "time": "05:04:08"
+    },
+    {
+        "index": 11,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 137.97,
+        "marketCap": 2400000000000,
+        "date": "2023-07-01",
+        "time": "07:16:01"
+    },
+    {
+        "index": 12,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 169.75,
+        "marketCap": 2400000000000,
+        "date": "2023-06-29",
+        "time": "22:26:14"
+    },
+    {
+        "index": 13,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 135.0,
+        "marketCap": 2400000000000,
+        "date": "2023-10-07",
+        "time": "10:31:37"
+    },
+    {
+        "index": 14,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 152.09,
+        "marketCap": 2400000000000,
+        "date": "2024-01-02",
+        "time": "08:54:18"
+    },
+    {
+        "index": 15,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 154.87,
+        "marketCap": 2400000000000,
+        "date": "2023-04-21",
+        "time": "12:45:14"
+    },
+    {
+        "index": 16,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 147.54,
+        "marketCap": 2400000000000,
+        "date": "2023-07-04",
+        "time": "14:50:09"
+    },
+    {
+        "index": 17,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 161.37,
+        "marketCap": 2400000000000,
+        "date": "2023-07-01",
+        "time": "11:00:41"
+    },
+    {
+        "index": 18,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 168.57,
+        "marketCap": 2400000000000,
+        "date": "2023-07-31",
+        "time": "22:23:24"
+    },
+    {
+        "index": 19,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 135.82,
+        "marketCap": 2400000000000,
+        "date": "2023-06-01",
+        "time": "11:31:48"
+    },
+    {
+        "index": 20,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 153.34,
+        "marketCap": 2400000000000,
+        "date": "2023-07-19",
+        "time": "03:24:14"
+    },
+    {
+        "index": 21,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 137.72,
+        "marketCap": 2400000000000,
+        "date": "2023-04-22",
+        "time": "14:26:57"
+    },
+    {
+        "index": 22,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 168.56,
+        "marketCap": 2400000000000,
+        "date": "2023-05-04",
+        "time": "16:13:45"
+    },
+    {
+        "index": 23,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 155.82,
+        "marketCap": 2400000000000,
+        "date": "2023-11-18",
+        "time": "04:38:05"
+    },
+    {
+        "index": 24,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 160.69,
+        "marketCap": 2400000000000,
+        "date": "2024-02-25",
+        "time": "16:27:35"
+    },
+    {
+        "index": 25,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 147.33,
+        "marketCap": 2400000000000,
+        "date": "2023-10-27",
+        "time": "11:28:20"
+    },
+    {
+        "index": 26,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 150.72,
+        "marketCap": 2400000000000,
+        "date": "2024-02-23",
+        "time": "21:26:43"
+    },
+    {
+        "index": 27,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 151.8,
+        "marketCap": 2400000000000,
+        "date": "2023-10-02",
+        "time": "03:59:58"
+    },
+    {
+        "index": 28,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 165.16,
+        "marketCap": 2400000000000,
+        "date": "2023-04-25",
+        "time": "15:21:03"
+    },
+    {
+        "index": 29,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 131.9,
+        "marketCap": 2400000000000,
+        "date": "2023-07-27",
+        "time": "20:39:50"
+    },
+    {
+        "index": 30,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 169.2,
+        "marketCap": 2400000000000,
+        "date": "2024-01-20",
+        "time": "02:29:49"
+    },
+    {
+        "index": 31,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 149.76,
+        "marketCap": 2400000000000,
+        "date": "2023-08-28",
+        "time": "12:11:22"
+    },
+    {
+        "index": 32,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 161.68,
+        "marketCap": 2400000000000,
+        "date": "2023-05-27",
+        "time": "16:51:44"
+    },
+    {
+        "index": 33,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 154.14,
+        "marketCap": 2400000000000,
+        "date": "2023-04-28",
+        "time": "15:03:13"
+    },
+    {
+        "index": 34,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 155.48,
+        "marketCap": 2400000000000,
+        "date": "2023-04-02",
+        "time": "13:44:33"
+    },
+    {
+        "index": 35,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 166.26,
+        "marketCap": 2400000000000,
+        "date": "2023-09-28",
+        "time": "17:33:48"
+    },
+    {
+        "index": 36,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 155.53,
+        "marketCap": 2400000000000,
+        "date": "2023-04-17",
+        "time": "16:56:27"
+    },
+    {
+        "index": 37,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 154.36,
+        "marketCap": 2400000000000,
+        "date": "2023-04-08",
+        "time": "21:45:22"
+    },
+    {
+        "index": 38,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 165.87,
+        "marketCap": 2400000000000,
+        "date": "2023-05-04",
+        "time": "16:54:50"
+    },
+    {
+        "index": 39,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 167.28,
+        "marketCap": 2400000000000,
+        "date": "2024-03-07",
+        "time": "06:49:50"
+    },
+    {
+        "index": 40,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 152.09,
+        "marketCap": 2400000000000,
+        "date": "2023-10-01",
+        "time": "09:57:51"
+    },
+    {
+        "index": 41,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 159.41,
+        "marketCap": 2400000000000,
+        "date": "2023-11-14",
+        "time": "14:00:21"
+    },
+    {
+        "index": 42,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 130.19,
+        "marketCap": 2400000000000,
+        "date": "2023-05-11",
+        "time": "01:17:27"
+    },
+    {
+        "index": 43,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 152.6,
+        "marketCap": 2400000000000,
+        "date": "2023-09-07",
+        "time": "17:27:14"
+    },
+    {
+        "index": 44,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 151.36,
+        "marketCap": 2400000000000,
+        "date": "2023-08-29",
+        "time": "23:10:52"
+    },
+    {
+        "index": 45,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 138.77,
+        "marketCap": 2400000000000,
+        "date": "2023-08-17",
+        "time": "14:00:23"
+    },
+    {
+        "index": 46,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 144.96,
+        "marketCap": 2400000000000,
+        "date": "2023-05-21",
+        "time": "02:13:32"
+    },
+    {
+        "index": 47,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 156.99,
+        "marketCap": 2400000000000,
+        "date": "2024-02-02",
+        "time": "23:28:31"
+    },
+    {
+        "index": 48,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 149.02,
+        "marketCap": 2400000000000,
+        "date": "2024-02-19",
+        "time": "22:45:44"
+    },
+    {
+        "index": 49,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 160.23,
+        "marketCap": 2400000000000,
+        "date": "2023-10-06",
+        "time": "12:26:30"
+    },
+    {
+        "index": 50,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 163.44,
+        "marketCap": 2400000000000,
+        "date": "2023-05-05",
+        "time": "19:17:58"
+    },
+    {
+        "index": 51,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 165.09,
+        "marketCap": 2400000000000,
+        "date": "2023-06-16",
+        "time": "02:13:32"
+    },
+    {
+        "index": 52,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 159.21,
+        "marketCap": 2400000000000,
+        "date": "2023-04-29",
+        "time": "16:22:17"
+    },
+    {
+        "index": 53,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 148.54,
+        "marketCap": 2400000000000,
+        "date": "2023-08-15",
+        "time": "15:07:59"
+    },
+    {
+        "index": 54,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 164.27,
+        "marketCap": 2400000000000,
+        "date": "2023-06-14",
+        "time": "06:10:00"
+    },
+    {
+        "index": 55,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 167.1,
+        "marketCap": 2400000000000,
+        "date": "2023-05-27",
+        "time": "18:26:44"
+    },
+    {
+        "index": 56,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 162.13,
+        "marketCap": 2400000000000,
+        "date": "2023-04-20",
+        "time": "21:57:06"
+    },
+    {
+        "index": 57,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 131.28,
+        "marketCap": 2400000000000,
+        "date": "2023-03-22",
+        "time": "09:53:33"
+    },
+    {
+        "index": 58,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 156.62,
+        "marketCap": 2400000000000,
+        "date": "2024-02-23",
+        "time": "03:18:53"
+    },
+    {
+        "index": 59,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 167.67,
+        "marketCap": 2400000000000,
+        "date": "2024-03-03",
+        "time": "17:24:11"
+    },
+    {
+        "index": 60,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 163.47,
+        "marketCap": 2400000000000,
+        "date": "2023-12-15",
+        "time": "09:04:38"
+    },
+    {
+        "index": 61,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 130.16,
+        "marketCap": 2400000000000,
+        "date": "2023-10-14",
+        "time": "05:50:17"
+    },
+    {
+        "index": 62,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 141.99,
+        "marketCap": 2400000000000,
+        "date": "2023-04-28",
+        "time": "15:22:02"
+    },
+    {
+        "index": 63,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 138.4,
+        "marketCap": 2400000000000,
+        "date": "2023-12-30",
+        "time": "21:42:21"
+    },
+    {
+        "index": 64,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 162.35,
+        "marketCap": 2400000000000,
+        "date": "2023-05-14",
+        "time": "10:24:08"
+    },
+    {
+        "index": 65,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 136.31,
+        "marketCap": 2400000000000,
+        "date": "2023-07-24",
+        "time": "19:00:47"
+    },
+    {
+        "index": 66,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 137.41,
+        "marketCap": 2400000000000,
+        "date": "2023-10-12",
+        "time": "02:52:23"
+    },
+    {
+        "index": 67,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 136.14,
+        "marketCap": 2400000000000,
+        "date": "2024-02-05",
+        "time": "18:09:37"
+    },
+    {
+        "index": 68,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 165.52,
+        "marketCap": 2400000000000,
+        "date": "2023-08-20",
+        "time": "08:02:09"
+    },
+    {
+        "index": 69,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 167.82,
+        "marketCap": 2400000000000,
+        "date": "2023-04-09",
+        "time": "15:17:48"
+    },
+    {
+        "index": 70,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 152.34,
+        "marketCap": 2400000000000,
+        "date": "2023-06-01",
+        "time": "06:13:39"
+    },
+    {
+        "index": 71,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 145.67,
+        "marketCap": 2400000000000,
+        "date": "2023-11-04",
+        "time": "06:09:31"
+    },
+    {
+        "index": 72,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 150.76,
+        "marketCap": 2400000000000,
+        "date": "2024-01-03",
+        "time": "08:23:05"
+    },
+    {
+        "index": 73,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 140.25,
+        "marketCap": 2400000000000,
+        "date": "2023-11-08",
+        "time": "01:09:43"
+    },
+    {
+        "index": 74,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 142.61,
+        "marketCap": 2400000000000,
+        "date": "2023-07-05",
+        "time": "16:53:24"
+    },
+    {
+        "index": 75,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 155.73,
+        "marketCap": 2400000000000,
+        "date": "2023-10-17",
+        "time": "16:43:40"
+    },
+    {
+        "index": 76,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 135.41,
+        "marketCap": 2400000000000,
+        "date": "2023-08-29",
+        "time": "09:42:27"
+    },
+    {
+        "index": 77,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 166.71,
+        "marketCap": 2400000000000,
+        "date": "2023-06-18",
+        "time": "18:28:42"
+    },
+    {
+        "index": 78,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 131.67,
+        "marketCap": 2400000000000,
+        "date": "2023-09-05",
+        "time": "21:07:23"
+    },
+    {
+        "index": 79,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 131.85,
+        "marketCap": 2400000000000,
+        "date": "2023-11-11",
+        "time": "11:43:44"
+    },
+    {
+        "index": 80,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 136.1,
+        "marketCap": 2400000000000,
+        "date": "2023-12-31",
+        "time": "18:22:45"
+    },
+    {
+        "index": 81,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 165.2,
+        "marketCap": 2400000000000,
+        "date": "2023-07-25",
+        "time": "06:17:57"
+    },
+    {
+        "index": 82,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 152.0,
+        "marketCap": 2400000000000,
+        "date": "2023-06-13",
+        "time": "02:28:05"
+    },
+    {
+        "index": 83,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 132.43,
+        "marketCap": 2400000000000,
+        "date": "2023-11-21",
+        "time": "00:22:26"
+    },
+    {
+        "index": 84,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 161.35,
+        "marketCap": 2400000000000,
+        "date": "2024-01-19",
+        "time": "08:09:10"
+    },
+    {
+        "index": 85,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 165.23,
+        "marketCap": 2400000000000,
+        "date": "2023-04-13",
+        "time": "23:59:42"
+    },
+    {
+        "index": 86,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 144.32,
+        "marketCap": 2400000000000,
+        "date": "2024-01-02",
+        "time": "21:04:35"
+    },
+    {
+        "index": 87,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 166.89,
+        "marketCap": 2400000000000,
+        "date": "2023-12-06",
+        "time": "20:10:15"
+    },
+    {
+        "index": 88,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 159.24,
+        "marketCap": 2400000000000,
+        "date": "2023-09-10",
+        "time": "13:21:02"
+    },
+    {
+        "index": 89,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 158.46,
+        "marketCap": 2400000000000,
+        "date": "2023-04-03",
+        "time": "10:36:26"
+    },
+    {
+        "index": 90,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 144.47,
+        "marketCap": 2400000000000,
+        "date": "2024-02-07",
+        "time": "19:30:38"
+    },
+    {
+        "index": 91,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 168.78,
+        "marketCap": 2400000000000,
+        "date": "2023-12-26",
+        "time": "22:56:52"
+    },
+    {
+        "index": 92,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 157.19,
+        "marketCap": 2400000000000,
+        "date": "2023-12-27",
+        "time": "01:31:00"
+    },
+    {
+        "index": 93,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 158.81,
+        "marketCap": 2400000000000,
+        "date": "2024-02-23",
+        "time": "06:14:15"
+    },
+    {
+        "index": 94,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 139.33,
+        "marketCap": 2400000000000,
+        "date": "2024-03-07",
+        "time": "23:18:39"
+    },
+    {
+        "index": 95,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 134.81,
+        "marketCap": 2400000000000,
+        "date": "2023-12-07",
+        "time": "19:31:57"
+    },
+    {
+        "index": 96,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 155.15,
+        "marketCap": 2400000000000,
+        "date": "2023-11-25",
+        "time": "05:00:46"
+    },
+    {
+        "index": 97,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 135.25,
+        "marketCap": 2400000000000,
+        "date": "2024-03-18",
+        "time": "08:16:41"
+    },
+    {
+        "index": 98,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 167.92,
+        "marketCap": 2400000000000,
+        "date": "2023-12-20",
+        "time": "06:51:52"
+    },
+    {
+        "index": 99,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 143.74,
+        "marketCap": 2400000000000,
+        "date": "2023-04-06",
+        "time": "19:05:07"
+    },
+    {
+        "index": 100,
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "lastPrice": 164.03,
+        "marketCap": 2400000000000,
+        "date": "2023-12-08",
+        "time": "09:38:16"
+    }
+]

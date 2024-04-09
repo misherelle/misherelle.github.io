@@ -1,0 +1,25 @@
+.header {
+  text-align: center;
+  padding: 20px;
+  background-color: #f7f7f7;
+  border-bottom: 1px solid #ccc;
+}
+
+.header h1 {
+  font-size: 3.5em;
+  font-weight: bolder;
+}
+
+.header h1 a {
+  text-decoration: none;
+  color: #213547;
+}
+
+.header h3 {
+  color: #34a541;
+}
+
+.page-icon {
+  height: 100px;
+  margin-right: 10px;
+}

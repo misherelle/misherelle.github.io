@@ -1,0 +1,20 @@
+/* Main content styling: */
+.weather-content {
+  position: relative;
+}
+
+/* Two flower images styling below: */
+.side-left-flower {
+  position: absolute;
+  top: 15px;
+  left: 20px;
+  width: 85px;
+}
+
+.side-right-flower {
+  position: absolute;
+  top: 27px;
+  right: 15px;
+  width: 100px;
+  transform: scaleX(-1);
+}

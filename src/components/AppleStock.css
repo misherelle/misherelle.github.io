@@ -1,0 +1,19 @@
+/* Main content styling: */
+.main-content-below {
+  position: relative;
+}
+
+/* Two duck images styling below: */
+.side-left-bottom {
+  position: absolute;
+  top: 69px;
+  left: 40px;
+  width: 70px;
+}
+
+.side-right-bottom {
+  position: absolute;
+  top: 69px;
+  right: 37px;
+  width: 85px;
+}
