@@ -6,8 +6,7 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview",
-    "start": "concurrently \"npm run build\" \"npm run dev\" \"node server.js\""
+    "preview": "vite preview"
   },
   "dependencies": {
     "build": "^0.1.4",
